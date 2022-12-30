@@ -2,35 +2,36 @@
 
 ## About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+This Project Using Deep Learning Model and Training Few Dataset to predict the result.
 
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
-
-```
-Give examples
-```
+Python3 Must be installed on your device.
 
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running.
 
-Say what the step will be
+1. Install Virtual Env
 
 ```
-Give the example
+python3 -m pip install --user virtualenv pipenv
 ```
 
-And repeat
+2. Initialize Env
 
 ```
-until finished
+python3 -m venv env
+```
+3. Activate Env
+```
+source env/bin/activate
+```
+4. Install Requirements
+
+```
+pipenv install
 ```
 
-End with an example of getting some data out of the system or using it for a little demo.
-
-## Usage <a name = "usage"></a>
-
-Add notes about how to use the system.
+please follow my instagram [@thanseeftsf](https://www.instagram.com/thanseeftsf/) and ask any doubts.
